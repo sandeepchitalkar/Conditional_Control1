@@ -9,7 +9,6 @@ public class IfStatementExample1 {
         num= obj.nextInt();
         if( num < 100 ){
             // following println statement will only execute, if the above condition is true
-
             System.out.println("number is less than 100");
         }
     }
